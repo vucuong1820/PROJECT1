@@ -23,7 +23,7 @@ include_once("config/connect.php");
 </head>
 
 <body>
-
+    <a>Xin chào</a>
     <!--	Header	-->
     <div id="header">
         <div class="container">
